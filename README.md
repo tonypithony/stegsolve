@@ -1,3 +1,14 @@
+```bash
+java -jar StegSolve-1.4.jar
+```
+
+
+![](https://raw.githubusercontent.com/tonypithony/stegsolve/main/results/22.JPG)
+
+
+![](https://raw.githubusercontent.com/tonypithony/stegsolve/main/results/solved2.jpg)
+
+
 # Stegsolve v1.3
 Stegsolve is a stegano solver for challenges. It provides these main functions:
 * A quick view of different bit planes and some simple transformations.
@@ -13,3 +24,12 @@ If an image fails to load, for example because it is corrupt, then file analysis
 It may, however, crash out before reporting the information that you want to know. This will work though on images where the PNG has corrupted CRC values for example.
 
 *author Caesum* 
+
+
+## Sources
+
+* [India](https://github.com/unton3ton/DWT-DCT-Digital-Image-Watermarking)
+* [China](https://github.com/unton3ton/mijn_blind_watermark)
+* [StegSolve](https://github.com/Giotino/stegsolve/tree/master)
+* [Stegsolve Описание](https://kmb.cybber.ru/stego/stegsolve/main.html)
+* [Kids 2.0 Forensics: данные и стеганография](https://www.youtube.com/watch?v=7lNTMNITcSA)
